@@ -1,4 +1,5 @@
-![mahua](mahua-logo.jpg)
+![截图](https://github.com/fcatat/common/blob/master/report_jpg.jpg?raw=true)
+
 ## get_dns_info.py是什么?
 * 域名多、证书多，人工收集困难，漏续费后果严重。此脚本一键收集并生成html格式报表
 > 通过域名提供商（DNSpod）API获取所有域名
