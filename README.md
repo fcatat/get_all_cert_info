@@ -1,4 +1,4 @@
-![截图](https://github.com/fcatat/common/blob/master/report_jpg.jpg?raw=true)
+
 
 ## get_dns_info.py是什么?
 * 域名多、证书多，人工收集困难，漏续费后果严重。此脚本一键收集并生成html格式报表
@@ -19,6 +19,7 @@
 * python get_dns_info.py 运行后生成report-new.html
 
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
+![截图](https://github.com/fcatat/common/blob/master/report_jpg.jpg)
 
 * 邮件(xing_ji#foxmail.com, 把#换成@)
 
