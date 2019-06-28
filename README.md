@@ -23,6 +23,8 @@
 
 ## 使用方法
 * DNSpod创建Token，替换脚本ID、token
+![截图](https://github.com/fcatat/common/raw/master/create_token.jpg)
+
 ```python
 # https://www.dnspod.cn/console/user/security创建API Token
 ID = 111111  # 替换
@@ -36,8 +38,6 @@ use_ssl_record_sum = len(all_record)
 ```
 
 * python get_dns_info.py 运行后生成report-new.html
-
-
 
 
 ![截图](https://github.com/fcatat/common/raw/master/report_jpg.jpg)
