@@ -42,9 +42,6 @@ use_ssl_record_sum = len(all_record)
 
 ![截图](https://github.com/fcatat/common/raw/master/report_jpg.jpg)
 
-在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
-* 邮件(xing_ji#foxmail.com, 把#换成@)
-
 
 ## 关于作者
 
